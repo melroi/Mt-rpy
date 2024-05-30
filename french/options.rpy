@@ -1,8 +1,8 @@
-﻿# TODO: Translation updated at 2024-05-29 13:14
+﻿# TODO: Translation updated at 2024-05-30 09:31
 
-translate english strings:
+translate french strings:
 
     # game/options.rpy:15
     old "MONSTER TUTOR"
-    new ""
+    new "MONSTER TUTOR"
 
