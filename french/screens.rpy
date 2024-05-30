@@ -1,364 +1,356 @@
 ﻿# TODO: Translation updated at 2024-05-29 13:14
 
 # game/screens.rpy:1895
-translate english confirm_selection_pha_8d74a559:
+translate french confirm_selection_pha_8d74a559:
 
     # "Do you want to spend time with Phanta?"
-    ""
+    "Voulez-vous passer du temps avec Phanta ?"
 
 # game/screens.rpy:1906
-translate english confirm_selection_azazel_6a8eaad1:
+translate french confirm_selection_azazel_6a8eaad1:
 
     # "Do you want to spend time with Azazel?"
-    ""
+    "Voulez-vous passer du temps avec Azazel ? "
 
 # game/screens.rpy:1917
-translate english confirm_selection_josa_ed4701cd:
+translate french confirm_selection_josa_ed4701cd:
 
     # "Do you want to spend time with Josa?"
-    ""
+    "Voulez-vous passer du temps avec Josa ?"
 
 # game/screens.rpy:1961
-translate english confirm_selection_fio_f6956ba6:
+translate french confirm_selection_fio_f6956ba6:
 
     # "Do you want to spend time with Fio?"
-    ""
+    "Voulez-vous passer du temps avec Fio ?  "
 
-translate english strings:
 
-    # game/screens.rpy:286
+translate french strings:
+
+    # screens.rpy:261
     old "Back"
-    new ""
+    new "Retour"
 
-    # game/screens.rpy:287
-    old "Skip"
-    new ""
-
-    # game/screens.rpy:288
-    old "Save"
-    new ""
-
-    # game/screens.rpy:289
-    old "Q.Save"
-    new ""
-
-    # game/screens.rpy:290
-    old "Q.Load"
-    new ""
-
-    # game/screens.rpy:291
-    old "Prefs"
-    new ""
-
-    # game/screens.rpy:333
-    old "Start"
-    new ""
-
-    # game/screens.rpy:337
+    # screens.rpy:262
     old "History"
-    new ""
+    new "Historique"
 
-    # game/screens.rpy:341
-    old "Load"
-    new ""
+    # screens.rpy:263
+    old "Skip"
+    new "Avance rapide"
 
-    # game/screens.rpy:343
-    old "Preferences"
-    new ""
-
-    # game/screens.rpy:345
-    old "Gallery"
-    new ""
-
-    # game/screens.rpy:349
-    old "End Replay"
-    new ""
-
-    # game/screens.rpy:353
-    old "Main Menu"
-    new ""
-
-    # game/screens.rpy:355
-    old "About"
-    new ""
-
-    # game/screens.rpy:360
-    old "Help"
-    new ""
-
-    # game/screens.rpy:366
-    old "Quit"
-    new ""
-
-    # game/screens.rpy:580
-    old "Return"
-    new ""
-
-    # game/screens.rpy:667
-    old "Version [config.version!t]\n"
-    new ""
-
-    # game/screens.rpy:673
-    old "Made with {a=https://www.renpy.org/}Ren'Py{/a} [renpy.version_only].\n\n[renpy.license!t]"
-    new ""
-
-    # game/screens.rpy:709
-    old "Page {}"
-    new ""
-
-    # game/screens.rpy:709
-    old "Automatic saves"
-    new ""
-
-    # game/screens.rpy:709
-    old "Quick saves"
-    new ""
-
-    # game/screens.rpy:751
-    old "{#file_time}%A, %B %d %Y, %H:%M"
-    new ""
-
-    # game/screens.rpy:751
-    old "empty slot"
-    new ""
-
-    # game/screens.rpy:771
-    old "<"
-    new ""
-
-    # game/screens.rpy:775
-    old "{#auto_page}A"
-    new ""
-
-    # game/screens.rpy:779
-    old "{#quick_page}Q"
-    new ""
-
-    # game/screens.rpy:787
-    old ">"
-    new ""
-
-    # game/screens.rpy:792
-    old "Upload Sync"
-    new ""
-
-    # game/screens.rpy:797
-    old "Download Sync"
-    new ""
-
-    # game/screens.rpy:857
-    old "Display"
-    new ""
-
-    # game/screens.rpy:860
-    old "Window"
-    new ""
-
-    # game/screens.rpy:862
-    old "Fullscreen"
-    new ""
-
-    # game/screens.rpy:869
-    old "Unseen Text"
-    new ""
-
-    # game/screens.rpy:871
-    old "After Choices"
-    new ""
-
-    # game/screens.rpy:873
-    old "Transitions"
-    new ""
-
-    # game/screens.rpy:887
-    old "Text Speed"
-    new ""
-
-    # game/screens.rpy:892
-    old "Auto-Forward Time"
-    new ""
-
-    # game/screens.rpy:900
-    old "Music Volume"
-    new ""
-
-    # game/screens.rpy:908
-    old "Sound Volume"
-    new ""
-
-    # game/screens.rpy:915
-    old "Test"
-    new ""
-
-    # game/screens.rpy:919
-    old "Voice Volume"
-    new ""
-
-    # game/screens.rpy:931
-    old "Mute All"
-    new ""
-
-    # game/screens.rpy:1051
-    old "The dialogue history is empty."
-    new ""
-
-    # game/screens.rpy:1119
-    old "Keyboard"
-    new ""
-
-    # game/screens.rpy:1120
-    old "Mouse"
-    new ""
-
-    # game/screens.rpy:1123
-    old "Gamepad"
-    new ""
-
-    # game/screens.rpy:1136
-    old "Enter"
-    new ""
-
-    # game/screens.rpy:1137
-    old "Advances dialogue and activates the interface."
-    new ""
-
-    # game/screens.rpy:1140
-    old "Space"
-    new ""
-
-    # game/screens.rpy:1141
-    old "Advances dialogue without selecting choices."
-    new ""
-
-    # game/screens.rpy:1144
-    old "Arrow Keys"
-    new ""
-
-    # game/screens.rpy:1145
-    old "Navigate the interface."
-    new ""
-
-    # game/screens.rpy:1148
-    old "Escape"
-    new ""
-
-    # game/screens.rpy:1149
-    old "Accesses the game menu."
-    new ""
-
-    # game/screens.rpy:1152
-    old "Ctrl"
-    new ""
-
-    # game/screens.rpy:1153
-    old "Skips dialogue while held down."
-    new ""
-
-    # game/screens.rpy:1156
-    old "Tab"
-    new ""
-
-    # game/screens.rpy:1157
-    old "Toggles dialogue skipping."
-    new ""
-
-    # game/screens.rpy:1160
-    old "Page Up"
-    new ""
-
-    # game/screens.rpy:1161
-    old "Rolls back to earlier dialogue."
-    new ""
-
-    # game/screens.rpy:1164
-    old "Page Down"
-    new ""
-
-    # game/screens.rpy:1165
-    old "Rolls forward to later dialogue."
-    new ""
-
-    # game/screens.rpy:1169
-    old "Hides the user interface."
-    new ""
-
-    # game/screens.rpy:1173
-    old "Takes a screenshot."
-    new ""
-
-    # game/screens.rpy:1177
-    old "Toggles assistive {a=https://www.renpy.org/l/voicing}self-voicing{/a}."
-    new ""
-
-    # game/screens.rpy:1181
-    old "Opens the accessibility menu."
-    new ""
-
-    # game/screens.rpy:1187
-    old "Left Click"
-    new ""
-
-    # game/screens.rpy:1191
-    old "Middle Click"
-    new ""
-
-    # game/screens.rpy:1195
-    old "Right Click"
-    new ""
-
-    # game/screens.rpy:1199
-    old "Mouse Wheel Up"
-    new ""
-
-    # game/screens.rpy:1203
-    old "Mouse Wheel Down"
-    new ""
-
-    # game/screens.rpy:1210
-    old "Right Trigger\nA/Bottom Button"
-    new ""
-
-    # game/screens.rpy:1214
-    old "Left Trigger\nLeft Shoulder"
-    new ""
-
-    # game/screens.rpy:1218
-    old "Right Shoulder"
-    new ""
-
-    # game/screens.rpy:1222
-    old "D-Pad, Sticks"
-    new ""
-
-    # game/screens.rpy:1226
-    old "Start, Guide, B/Right Button"
-    new ""
-
-    # game/screens.rpy:1230
-    old "Y/Top Button"
-    new ""
-
-    # game/screens.rpy:1233
-    old "Calibrate"
-    new ""
-
-    # game/screens.rpy:1298
-    old "Yes"
-    new ""
-
-    # game/screens.rpy:1299
-    old "No"
-    new ""
-
-    # game/screens.rpy:1348
-    old "Skipping"
-    new ""
-
-    # game/screens.rpy:1661
+    # screens.rpy:264
     old "Auto"
-    new ""
+    new "Auto"
 
-    # game/screens.rpy:1662
+    # screens.rpy:265
+    old "Save"
+    new "Sauvegarde"
+
+    # screens.rpy:266
+    old "Q.Save"
+    new "Sauvegarde R."
+
+    # screens.rpy:267
+    old "Q.Load"
+    new "Chargement R."
+
+    # screens.rpy:268
+    old "Prefs"
+    new "Préf."
+
+    # screens.rpy:309
+    old "Start"
+    new "Nouvelle partie"
+
+    # screens.rpy:317
+    old "Load"
+    new "Charger"
+
+    # screens.rpy:319
+    old "Preferences"
+    new "Préférences"
+
+    # screens.rpy:323
+    old "End Replay"
+    new "Fin de la rediffusion"
+
+    # screens.rpy:327
+    old "Main Menu"
+    new "Menu principal"
+
+    # screens.rpy:329
+    old "About"
+    new "À propos"
+
+    # screens.rpy:334
+    old "Help"
+    new "Aide"
+
+    # screens.rpy:337
+    old "Quit"
+    new "Quitter"
+
+    # screens.rpy:480
+    old "Return"
+    new "Retour"
+
+    # screens.rpy:564
+    old "Version [config.version!t]\n"
+    new "Version [config.version!t]\n"
+
+    # screens.rpy:570
+    old "Made with {a=https://www.renpy.org/}Ren'Py{/a} [renpy.version_only].\n\n[renpy.license!t]"
+    new "Conçu avec {a=https://www.renpy.org/}Ren'Py{/a} [renpy.version_only].\n\n[renpy.license!t]"
+
+    # screens.rpy:610
+    old "Page {}"
+    new "Page {}"
+
+    # screens.rpy:610
+    old "Automatic saves"
+    new "Sauvegardes automatiques"
+
+    # screens.rpy:610
+    old "Quick saves"
+    new "Sauvegardes rapides"
+
+    # screens.rpy:652
+    old "{#file_time}%A, %B %d %Y, %H:%M"
+    new "{#file_time}%A %d %B %Y, %H:%M"
+
+    # screens.rpy:652
+    old "empty slot"
+    new "emplacement vide"
+
+    # screens.rpy:669
+    old "<"
+    new "<"
+
+    # screens.rpy:672
+    old "{#auto_page}A"
+    new "{#auto_page}A"
+
+    # screens.rpy:675
+    old "{#quick_page}Q"
+    new "{#quick_page}Q"
+
+    # screens.rpy:681
+    old ">"
+    new ">"
+
+    # screens.rpy:743
+    old "Display"
+    new "Affichage"
+
+    # screens.rpy:744
+    old "Window"
+    new "Fenêtre"
+
+    # screens.rpy:745
+    old "Fullscreen"
+    new "Plein écran"
+
+    # screens.rpy:757
+    old "Unseen Text"
+    new "Texte non lu"
+
+    # screens.rpy:758
+    old "After Choices"
+    new "Après les choix"
+
+    # screens.rpy:764
+    old "Examples"
+    new "Exemples"
+
+    # screens.rpy:773
+    old "Language"
+    new "Langue"
+
+    # screens.rpy:793
+    old "Text Speed"
+    new "Vitesse du texte"
+
+    # screens.rpy:797
+    old "Auto-Forward Time"
+    new "Avance automatique"
+
+    # screens.rpy:804
+    old "Music Volume"
+    new "Volume de la musique"
+
+    # screens.rpy:811
+    old "Sound Volume"
+    new "Volume des sons"
+
+    # screens.rpy:817
+    old "Test"
+    new "Test"
+
+    # screens.rpy:821
+    old "Voice Volume"
+    new "Volume des voix"
+
+    # screens.rpy:832
+    old "Mute All"
+    new "Couper tous les sons"
+
+    # screens.rpy:948
+    old "The dialogue history is empty."
+    new "L'historique des dialogues est vide."
+
+    # screens.rpy:1013
+    old "Keyboard"
+    new "Clavier"
+
+    # screens.rpy:1014
+    old "Mouse"
+    new "Souris"
+
+    # screens.rpy:1017
+    old "Gamepad"
+    new "Manette"
+
+    # screens.rpy:1030
+    old "Enter"
+    new "Entrée"
+
+    # screens.rpy:1031
+    old "Advances dialogue and activates the interface."
+    new "Avance dans les dialogues et active l’interface (effectue un choix)."
+
+    # screens.rpy:1034
+    old "Space"
+    new "Espace"
+
+    # screens.rpy:1035
+    old "Advances dialogue without selecting choices."
+    new "Avance dans les dialogues sans effectuer de choix."
+
+    # screens.rpy:1038
+    old "Arrow Keys"
+    new "Flèches directionnelles"
+
+    # screens.rpy:1039
+    old "Navigate the interface."
+    new "Permet de se déplacer dans l’interface."
+
+    # screens.rpy:1042
+    old "Escape"
+    new "Échap."
+
+    # screens.rpy:1043
+    old "Accesses the game menu."
+    new "Ouvre le menu du jeu."
+
+    # screens.rpy:1046
+    old "Ctrl"
+    new "Ctrl"
+
+    # screens.rpy:1047
+    old "Skips dialogue while held down."
+    new "Fait défiler les dialogues tant que la touche est pressée."
+
+    # screens.rpy:1050
+    old "Tab"
+    new "Tab"
+
+    # screens.rpy:1051
+    old "Toggles dialogue skipping."
+    new "Active ou désactives les «sauts des dialogues»."
+
+    # screens.rpy:1054
+    old "Page Up"
+    new "Page Haut"
+
+    # screens.rpy:1055
+    old "Rolls back to earlier dialogue."
+    new "Retourne au précédent dialogue."
+
+    # screens.rpy:1058
+    old "Page Down"
+    new "Page Bas"
+
+    # screens.rpy:1059
+    old "Rolls forward to later dialogue."
+    new "Avance jusqu'au prochain dialogue."
+
+    # screens.rpy:1063
+    old "Hides the user interface."
+    new "Cache l’interface utilisateur."
+
+    # screens.rpy:1067
+    old "Takes a screenshot."
+    new "Prend une capture d’écran."
+
+    # screens.rpy:1071
+    old "Toggles assistive {a=https://www.renpy.org/l/voicing}self-voicing{/a}."
+    new "Active la {a=https://www.renpy.org/l/voicing}{size=24}vocalisation automatique{/size}{/a}."
+
+    # screens.rpy:1077
+    old "Left Click"
+    new "Bouton gauche"
+
+    # screens.rpy:1081
+    old "Middle Click"
+    new "Bouton central"
+
+    # screens.rpy:1085
+    old "Right Click"
+    new "Bouton droit"
+
+    # screens.rpy:1089
+    old "Mouse Wheel Up"
+    new "Molette de souris vers le haut"
+
+    # screens.rpy:1093
+    old "Mouse Wheel Down"
+    new "Molette vers le bas"
+
+    # screens.rpy:1100
+    old "Right Trigger\nA/Bottom Button"
+    new "Bouton R1\nA/Bouton du bas"
+
+    # screens.rpy:1104
+    old "Left Trigger\nLeft Shoulder"
+    new "Déclencheur gauche\nBouton L1"
+
+    # screens.rpy:1108
+    old "Right Shoulder"
+    new "Bouton R1"
+
+    # screens.rpy:1112
+    old "D-Pad, Sticks"
+    new "Boutons directionnels, stick gauche"
+
+    # screens.rpy:1116
+    old "Start, Guide"
+    new "Start, Guide"
+
+    # screens.rpy:1120
+    old "Y/Top Button"
+    new "Y/Bouton du haut"
+
+    # screens.rpy:1123
+    old "Calibrate"
+    new "Calibrage"
+
+    # screens.rpy:1188
+    old "Yes"
+    new "Oui"
+
+    # screens.rpy:1189
+    old "No"
+    new "Non"
+
+    # screens.rpy:1235
+    old "Skipping"
+    new "Avance rapide"
+
+    # screens.rpy:1456
     old "Menu"
-    new ""
+    new "Menu"
 
+    # game/screens.rpy:1083
+    old "Opens the accessibility menu."
+    new "Ouvre le menu d'accessibilité."
