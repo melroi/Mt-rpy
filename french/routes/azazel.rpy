@@ -4,13 +4,13 @@
 translate english azazel_lvl1_3c30ee8b:
 
     # "After school, I called Azazel over for her first tutoring session."
-    ""
+    "Apres les cours, J'ai appelé Azazel pour son premier cours particulier."
 
 # game/routes/azazel.rpy:23
 translate english azazel_lvl1_49faf949:
 
     # "The moment I open the door to greet her, she immediately pushes past me into the apartment and begins making herself at home."
-    ""
+    "Dès l'instant  où j'ai ouvert la porte pour l'accueillir, elle m'a immédiatement poussé pour rentrer et a fait comme si c'était chez elle."
 
 # game/routes/azazel.rpy:24
 translate english azazel_lvl1_b9ead8a1:
@@ -18,31 +18,32 @@ translate english azazel_lvl1_b9ead8a1:
     # voice "azazel_voice/lvl1/aza01.wav"
     # aza "I'm here, teach. Let's get started already."
     voice "azazel_voice/lvl1/aza01.wav"
-    aza ""
+    aza "Je suis là, prof. Commençons. "
 
 # game/routes/azazel.rpy:26
 translate english azazel_lvl1_5f339430:
 
     # "I was shocked at her pushiness, I could tell she was a demon, but not that much of a devil."
-    ""
+    "J'ai été choqué par son audace, je peux dire que c'est un démon, mais pas vraiment un diable. 
+
 
 # game/routes/azazel.rpy:27
 translate english azazel_lvl1_dca26f5c:
 
     # pro "Uhh, come in.. I guess.."
-    pro ""
+    pro"Uhh, rentres.. Je suppose"
 
 # game/routes/azazel.rpy:28
 translate english azazel_lvl1_bf59770a:
 
     # "I didn't even get a chance to ask her if she wanted something to drink before she made her way into my living room and sprawled out on my couch."
-    ""
+    "Je n'ai même pas pu lui demander si elle voulait boire quelque chose avant qu'elle ne se dirige vers mon salon et ne s'allonge sur mon canapé. "
 
 # game/routes/azazel.rpy:31
 translate english azazel_lvl1_96594735:
 
     # pro "Azazel, what kind of stuff do you need help with?"
-    pro ""
+    pro "Azazel, tu a besoin d'aide pour quoi ?"
 
 # game/routes/azazel.rpy:32
 translate english azazel_lvl1_59413b97:
@@ -50,13 +51,13 @@ translate english azazel_lvl1_59413b97:
     # voice "azazel_voice/lvl1/aza02.wav"
     # aza "I don't care. I'm only here because you told me you would help Josa out"
     voice "azazel_voice/lvl1/aza02.wav"
-    aza ""
+    aza "Je m'en moque. Je suis juste là car vous avez dit que vous aiderait Josa"
 
 # game/routes/azazel.rpy:34
 translate english azazel_lvl1_209c1772:
 
     # pro "Yea.. because if I'm going to put in the effort to tutor her, I want to see you and Phanta succeed to."
-    pro ""
+    pro "Ouais.. parce que"
 
 # game/routes/azazel.rpy:35
 translate english azazel_lvl1_542fa98f:
