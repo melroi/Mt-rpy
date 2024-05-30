@@ -1,64 +1,49 @@
-﻿# TODO: Translation updated at 2024-05-29 13:14
+# TODO: Translation updated at 2024-05-30 08:24
 
-translate english strings:
+translate french strings:
 
-    # game/achievements.rpy:95
     old "Sample Achievement"
-    new ""
-
-    # game/achievements.rpy:95
+    new "Exemple de succès"
+    
     old "This is a sample achievement."
-    new ""
-
-    # game/achievements.rpy:119
+    new "Ceci est un exemple de succès."
+    
     old "Progress Achievement"
-    new ""
-
-    # game/achievements.rpy:119
+    new "Succès de Progression"
+    
     old "This is an achievement with a progress bar."
-    new ""
-
-    # game/achievements.rpy:160
+    new "Ceci est un succès avec une barre de progression."
+    
     old "Hidden Achievement"
-    new ""
-
-    # game/achievements.rpy:160
+    new "Succès Caché"
+    
     old "This hidden achievement hides both the name and description."
-    new ""
-
-    # game/achievements.rpy:169
+    new "Ce succès caché masque à la fois le nom et la description."
+    
     old "Hidden Description"
-    new ""
-
-    # game/achievements.rpy:169
+    new "Description Cachée"
+    
     old "This hidden achievement hides only the description."
-    new ""
-
-    # game/achievements.rpy:181
+    new "Ce succès caché ne masque que la description."
+    
     old "You found it"
-    new ""
-
-    # game/achievements.rpy:181
+    new "Vous l'avez trouvé"
+    
     old "This achievement unlocks automatically when the other two hidden achievements are unlocked."
-    new ""
-
-    # game/achievements.rpy:181
+    new "Ce succès se débloque automatiquement lorsque les deux autres succès cachés sont débloqués."
+    
     old "Try unlocking the other two hidden achievements before this one."
-    new ""
-
-    # game/achievements.rpy:196
+    new "Essayez de débloquer les deux autres succès cachés avant celui-ci."
+    
     old "Platinum Achievement"
-    new ""
-
-    # game/achievements.rpy:196
+    new "Succès Platine"
+    
     old "Congrats! You unlocked every achievement!"
-    new ""
-
-    # game/achievements.rpy:196
+    new "Félicitations! Vous avez débloqué tous les succès!"
+    
     old "Get all other achievements."
-    new ""
-
-    # game/achievements.rpy:365
+    new "Obtenez tous les autres succès."
+    
     old "Achievements: "
-    new ""
-
+    new "Succès: "
+```
