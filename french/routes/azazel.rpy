@@ -65,31 +65,31 @@ translate english azazel_lvl1_542fa98f:
     # voice "azazel_voice/lvl1/aza03.wav"
     # aza "Well, whatever teach. Less work for you, I guess."
     voice "azazel_voice/lvl1/aza03.wav"
-    aza ""
+    aza ""Bon, peu importe. Ça vous fait moins de travail.
 
 # game/routes/azazel.rpy:37
 translate english azazel_lvl1_ffa9c753:
 
     # "I could tell Azazel didn't particularly like me, but it was hard to tell what was behind that facade. I'm not sure why, but I had the feeling she was trying to hide something."
-    ""
+    "Je pouvais dire qu'Azazel ne m'aimait pas particulièrement, mais il était difficile de dire ce qu'il y avait derrière cette façade. Je ne sais pas pourquoi, mais j'avais l'impression qu'elle essayait de cacher quelque chose. "
 
 # game/routes/azazel.rpy:38
 translate english azazel_lvl1_ad2762ec:
 
     # pro "Azazel, you got to work with me here. How about we study for an hour and then we can do something you want to do for an hour..?"
-    pro ""
+    pro "Azazel, tu a besoin de travailler ici avec moi. Si tu veux on bosse pendant une heure et après on fait ce que tu veux pendant une heure."
 
 # game/routes/azazel.rpy:39
 translate english azazel_lvl1_d46dbd38:
 
     # pro "Sound good?"
-    pro ""
+    pro "Ça te convient"
 
 # game/routes/azazel.rpy:40
 translate english azazel_lvl1_12ca9ff7:
 
     # "She thinks for a minute before responding.."
-    ""
+    "Elle réfléchis pendant une minute avant de répondre"
 
 # game/routes/azazel.rpy:41
 translate english azazel_lvl1_9aadc7e0:
@@ -97,25 +97,25 @@ translate english azazel_lvl1_9aadc7e0:
     # voice "azazel_voice/lvl1/aza04.wav"
     # aza "Whatever you say, teach.."
     voice "azazel_voice/lvl1/aza04.wav"
-    aza ""
+    aza "Peut importe, prof."
 
 # game/routes/azazel.rpy:45
 translate english azazel_lvl1_764c1cf1:
 
     # "The next hour or so, we spend studying. Surprisingly, Azazel seems to be focused the whole time. It felt nice to see her take something seriously for once.."
-    ""
+    "On passât la prochaine heure a réviser. Étonnamment, Azazel semblait concentré tout le temps. C'était agréable de la voir prendre quelque chose au sérieux pour une fois. "
 
 # game/routes/azazel.rpy:46
 translate english azazel_lvl1_1a693006:
 
     # "It also made her seem more human.."
-    ""
+    "Ça l'a rends de quelque  sorte plus humain.."
 
 # game/routes/azazel.rpy:47
 translate english azazel_lvl1_4904c15c:
 
     # pro "You know, it's not bad to work hard."
-    pro ""
+    pro "Tu sais, c'est pas grave de travailler dur"
 
 # game/routes/azazel.rpy:48
 translate english azazel_lvl1_8275a21b:
@@ -123,31 +123,31 @@ translate english azazel_lvl1_8275a21b:
     # voice "azazel_voice/lvl1/aza05.wav"
     # aza "Why would I care about working hard on school? Studying is pointless."
     voice "azazel_voice/lvl1/aza05.wav"
-    aza ""
+    aza "Pourquoi je m'embêterais a travailler dur pour l'école?  Étudier est inutile"
 
 # game/routes/azazel.rpy:50
 translate english azazel_lvl1_05ef040b:
 
     # "That attitude was quickly thrown away though.."
-    ""
+    "Cette attitude a cependant été rapidement rejetée. "
 
 # game/routes/azazel.rpy:51
 translate english azazel_lvl1_9854c56e:
 
     # "When I turned around to grab my notebook off my desk, Azazel began rummaging through her backpack."
-    ""
+    "Quand je me suis retourné pour prendre mon cahier sur mon bureau, Azazel a commencé à fouiller dans son sac. "
 
 # game/routes/azazel.rpy:52
 translate english azazel_lvl1_3edbc771:
 
     # "When I turned back, she looked like she was holding a small book. It was dark, so I couldn't quite tell what it was."
-    ""
+    "Quand je me suis retourné, elle avait l’air de tenir un petit livre. Il était sombre, donc je ne pouvais pas vraiment dire ce que c'était. "
 
 # game/routes/azazel.rpy:53
 translate english azazel_lvl1_f52a8aab:
 
     # "Before I could ask her what it was, she hid it and put it away."
-    ""
+    "Avant de pouvoir lui demander ce que c'était elle lavait cacher et mis de côté"
 
 # game/routes/azazel.rpy:54
 translate english azazel_lvl1_150f31e4:
