@@ -1147,13 +1147,13 @@ translate french strings:
 
     # game/script.rpy:300
     old "Tutor the girls"
-    new ""
+    new "Donner des cours"
 
     # game/script.rpy:300
     old "Go to school"
-    new ""
+    new "Aller a l'école"
 
     # game/script.rpy:300
     old "Take a girl on a date"
-    new ""
+    new "Sortir en date"
 
