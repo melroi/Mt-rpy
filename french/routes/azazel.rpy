@@ -347,13 +347,13 @@ translate english azazel_lvl1_b3f02f43:
 translate english azazel_lvl1_6ea7d3cf:
 
     # "She was writing things about my eyes, so I couldn't help myself but to ask her what color she thought they were."
-    ""
+    "Elle écrivait des choses sur mes yeux, alors je n'ai pas pu m'empêcher de lui demander de quelle couleur elle pensait qu'ils étaient."
 
 # game/routes/azazel.rpy:101
 translate english azazel_lvl1_b3a025d8:
 
     # pro "So uhh.. do you think my eyes are green or blue?"
-    pro ""
+    pro "Alors euh.. tu penses que mes yeux sont verts ou bleus ?"
 
 # game/routes/azazel.rpy:102
 translate english azazel_lvl1_85d60db0:
@@ -361,19 +361,19 @@ translate english azazel_lvl1_85d60db0:
     # voice "azazel_voice/lvl1/aza11.wav"
     # aza "What kind of a dumb question is that?"
     voice "azazel_voice/lvl1/aza11.wav"
-    aza ""
+    aza "Quelle genre de question stupide est-ce que c'est ?"
 
 # game/routes/azazel.rpy:104
 translate english azazel_lvl1_f6814350:
 
     # pro "Sorry.."
-    pro ""
+    pro "Désolé.."
 
 # game/routes/azazel.rpy:106
 translate english azazel_lvl1_ea8dec8d:
 
     # "Azazel gets a little blushy and flustered and quickly turns her attention back to the TV."
-    ""
+    "Azazel rougit légèrement, se trouble et retourne rapidement son attention vers la télévision."
 
 # game/routes/azazel.rpy:107
 translate english azazel_lvl1_16e67bd4:
@@ -381,13 +381,13 @@ translate english azazel_lvl1_16e67bd4:
     # voice "azazel_voice/lvl1/aza12.wav"
     # aza "..they're blue"
     voice "azazel_voice/lvl1/aza12.wav"
-    aza ""
+    aza "..ils sont bleus"
 
 # game/routes/azazel.rpy:109
 translate english azazel_lvl1_8f4945b0:
 
     # pro "Oh really, how can you tell?"
-    pro ""
+    pro "Oh vraiment, comment peux-tu le savoir ?"
 
 # game/routes/azazel.rpy:111
 translate english azazel_lvl1_4c3d889f:
@@ -395,43 +395,43 @@ translate english azazel_lvl1_4c3d889f:
     # voice "azazel_voice/lvl1/aza13.wav"
     # aza "Because I can! My demon eyes are a lot better than an average humans."
     voice "azazel_voice/lvl1/aza13.wav"
-    aza ""
+    aza "Parce que je peux ! Mes yeux de démon sont bien meilleurs que ceux des humains ordinaires."
 
 # game/routes/azazel.rpy:113
 translate english azazel_lvl1_94dc6aa9:
 
     # "I was trying to make a joke, but Azazel seemed a bit uncomfortable.."
-    ""
+    "J'essayais de faire une blague, mais Azazel semblait un peu mal à l'aise.."
 
 # game/routes/azazel.rpy:114
 translate english azazel_lvl1_9e3a4f61:
 
     # "Maybe it's best to just drop it and watch the show."
-    ""
+    "Peut-être vaut-il mieux laisser tomber et regarder l'émission."
 
 # game/routes/azazel.rpy:116
 translate english azazel_lvl1_58981f54:
 
     # "We spend the rest of the time watching tv and chatting a little."
-    ""
+    "Nous passons le reste du temps à regarder la télévision et à discuter un peu."
 
 # game/routes/azazel.rpy:117
 translate english azazel_lvl1_a6d98d0e:
 
     # "Once the show was over, Azazel stood up and stretched.."
-    ""
+    "Une fois l'émission terminée, Azazel se leva et s'étira.."
 
 # game/routes/azazel.rpy:121
 translate english azazel_lvl1_58981f54_1:
 
     # "We spend the rest of the time watching tv and chatting a little."
-    ""
+    "Nous passons le reste du temps à regarder la télévision et à discuter un peu."
 
 # game/routes/azazel.rpy:122
 translate english azazel_lvl1_a6d98d0e_1:
 
     # "Once the show was over, Azazel stood up and stretched.."
-    ""
+    "Une fois l'émission terminée, Azazel se leva et s'étira.."
 
 # game/routes/azazel.rpy:127
 translate english azazel_lvl1_9cc6ba6c:
@@ -439,13 +439,13 @@ translate english azazel_lvl1_9cc6ba6c:
     # voice "azazel_voice/lvl1/aza14.wav"
     # aza "Well, time for me to leave teach. This was surprisingly not horrible, not bad for a human."
     voice "azazel_voice/lvl1/aza14.wav"
-    aza ""
+    aza "Bon, il est temps pour moi de partir prof. Ce n'était pas horriblement mauvais, pas mal pour un humain."
 
 # game/routes/azazel.rpy:129
 translate english azazel_lvl1_7b758e04:
 
     # pro "That's funny, you were a great student today, Azazel."
-    pro ""
+    pro "C'est drôle, tu as été une excellente élève aujourd'hui, Azazel."
 
 # game/routes/azazel.rpy:131
 translate english azazel_lvl1_7023a7b2:
@@ -453,7 +453,7 @@ translate english azazel_lvl1_7023a7b2:
     # voice "azazel_voice/lvl1/aza15.wav"
     # aza "Thanks.. or whatever.."
     voice "azazel_voice/lvl1/aza15.wav"
-    aza ""
+    aza "Merci.. ou peu importe.."
 
 # game/routes/azazel.rpy:136
 translate english azazel_lvl1_1b94a37a:
@@ -461,61 +461,61 @@ translate english azazel_lvl1_1b94a37a:
     # voice "azazel_voice/lvl1/aza16.wav"
     # aza "See ya next time, teach! Maybe I'll bring some of my friends to eat ya!"
     voice "azazel_voice/lvl1/aza16.wav"
-    aza ""
+    aza "À la prochaine, prof ! Peut-être que j'amènerai quelques amis pour te manger !"
 
 # game/routes/azazel.rpy:138
 translate english azazel_lvl1_958cfaf2:
 
     # "She quickly packs up and leaves, giving me a wave before closing the door."
-    ""
+    "Elle emballe rapidement ses affaires et part, me faisant un signe de la main avant de fermer la porte."
 
 # game/routes/azazel.rpy:139
 translate english azazel_lvl1_e7ab7f04:
 
     # pro "Haha.. you're jokes never get any less scary.."
-    pro ""
+    pro "Haha.. tes blagues ne deviennent jamais moins effrayantes.."
 
 # game/routes/azazel.rpy:140
 translate english azazel_lvl1_1e333dd0:
 
     # pro "Alright, that was weird.. but nice, I guess."
-    pro ""
+    pro "D'accord, c'était bizarre.. mais sympa, je suppose."
 
 # game/routes/azazel.rpy:141
 translate english azazel_lvl1_fee6d3f6:
 
     # "I couldn't quite understand her."
-    ""
+    "Je n'arrivais pas vraiment à la comprendre."
 
 # game/routes/azazel.rpy:142
 translate english azazel_lvl1_a48073ad:
 
     # "But it felt like maybe she was opening up to me.."
-    ""
+    "Mais j'avais l'impression qu'elle s'ouvrait peut-être à moi.."
 
 # game/routes/azazel.rpy:143
 translate english azazel_lvl1_1805bb90:
 
     # "I hope she opens up even more."
-    ""
+    "J'espère qu'elle s'ouvrira encore plus."
 
 # game/routes/azazel.rpy:144
 translate english azazel_lvl1_859f26de:
 
     # "Azazel Love Increased +1"
-    ""
+    "Amour d'Azazel augmenté +1"
 
 # game/routes/azazel.rpy:155
 translate english azazel_lvl2_505a1a75:
 
     # "I call Azazel over for another tutoring session. She comes to my house, we start to study. We talk a little, she seems a bit more relaxed."
-    ""
+    "Je fais venir Azazel pour une autre séance de tutorat. Elle vient chez moi, nous commençons à étudier. Nous discutons un peu, elle semble un peu plus détendue."
 
 # game/routes/azazel.rpy:156
 translate english azazel_lvl2_f4eb7af2:
 
     # "After an hour of studying, she offers to do something as a break."
-    ""
+    "Après une heure d'étude, elle propose de faire quelque chose comme une pause."
 
 # game/routes/azazel.rpy:161
 translate english azazel_lvl2_cd8e29c6:
@@ -523,13 +523,13 @@ translate english azazel_lvl2_cd8e29c6:
     # voice "azazel_voice/lvl2/aza01.wav"
     # aza "Yo teach, can we take a break? I'm getting really bored with all this work.."
     voice "azazel_voice/lvl2/aza01.wav"
-    aza ""
+    aza "Yo prof, on peut faire une pause ? Je m'ennuie vraiment avec tout ce travail.."
 
 # game/routes/azazel.rpy:163
 translate english azazel_lvl2_c826559f:
 
     # pro "Yea, sure."
-    pro ""
+    pro "Oui, bien sûr."
 
 # game/routes/azazel.rpy:164
 translate english azazel_lvl2_d1f8b7a4:
@@ -537,19 +537,19 @@ translate english azazel_lvl2_d1f8b7a4:
     # voice "azazel_voice/lvl2/aza02.wav"
     # aza "So can we watch TV or something, I'm really bored."
     voice "azazel_voice/lvl2/aza02.wav"
-    aza ""
+    aza "Alors, on peut regarder la télé ou quelque chose, je m'ennuie vraiment."
 
 # game/routes/azazel.rpy:166
 translate english azazel_lvl2_fe7a9d6b:
 
     # pro "Sure, I don't see why not.."
-    pro ""
+    pro "Bien sûr, je ne vois pas pourquoi pas.."
 
 # game/routes/azazel.rpy:167
 translate english azazel_lvl2_42fe183a:
 
     # "She turns on the tv, flips through channels for a bit."
-    ""
+    "Elle allume la télé et zappe un peu."
 
 # game/routes/azazel.rpy:168
 translate english azazel_lvl2_da745cc7:
@@ -557,13 +557,13 @@ translate english azazel_lvl2_da745cc7:
     # voice "azazel_voice/lvl2/aza03.wav"
     # aza "Man, there's nothing good on TV. Why do you have stupid human channels, the Netherworld network is way better."
     voice "azazel_voice/lvl2/aza03.wav"
-    aza ""
+    aza "Mec, il n'y a rien de bon à la télé. Pourquoi tu as des chaînes humaines stupides, le réseau du Netherworld est bien meilleur."
 
 # game/routes/azazel.rpy:170
 translate english azazel_lvl2_b74d76c2:
 
     # pro "Well, I don't enjoy watching Monster TV in my free time.."
-    pro ""
+    pro "Eh bien, je n'aime pas regarder la télé des monstres pendant mon temps libre.."
 
 # game/routes/azazel.rpy:171
 translate english azazel_lvl2_839fbe1b:
@@ -571,7 +571,7 @@ translate english azazel_lvl2_839fbe1b:
     # voice "azazel_voice/lvl2/aza04.wav"
     # aza "Humans are so boring with all their stupid morals.."
     voice "azazel_voice/lvl2/aza04.wav"
-    aza ""
+    aza "Les humains sont tellement ennuyeux avec toutes leurs stupides morales.."
 
 # game/routes/azazel.rpy:174
 translate english azazel_lvl2_aaeab254:
@@ -579,7 +579,7 @@ translate english azazel_lvl2_aaeab254:
     # voice "azazel_voice/lvl2/aza05.wav"
     # aza "How about we go for a run!"
     voice "azazel_voice/lvl2/aza05.wav"
-    aza ""
+    aza "Et si on allait courir !"
 
 # game/routes/azazel.rpy:176
 translate english azazel_lvl2_79e2e286:
@@ -587,31 +587,31 @@ translate english azazel_lvl2_79e2e286:
     # voice "azazel_voice/lvl2/aza06.wav"
     # aza "I think you could really use with breaking a sweat, teach!"
     voice "azazel_voice/lvl2/aza06.wav"
-    aza ""
+    aza "Je pense que tu pourrais vraiment faire avec un peu de sueur, prof !"
 
 # game/routes/azazel.rpy:178
 translate english azazel_lvl2_6ae945d4:
 
     # pro "Go for a run..?"
-    pro ""
+    pro "Aller courir..?"
 
 # game/routes/azazel.rpy:179
 translate english azazel_lvl2_2ebb117b:
 
     # "I was getting a bit tired myself, so maybe I should go with her idea.."
-    ""
+    "Je commençais à être un peu fatigué moi-même, alors peut-être que je devrais suivre son idée.."
 
 # game/routes/azazel.rpy:180
 translate english azazel_lvl2_249cd1c4:
 
     # "Azazel had been doing pretty well, It'd be nice to give her a little reward."
-    ""
+    "Azazel avait bien travaillé, ce serait bien de lui donner une petite récompense."
 
 # game/routes/azazel.rpy:182
 translate english azazel_lvl2_ee2e4e1a:
 
     # pro "Alright, you got it. Let's go!"
-    pro ""
+    pro "D'accord, c'est parti. Allons-y !"
 
 # game/routes/azazel.rpy:183
 translate english azazel_lvl2_3fefaf02:
@@ -619,13 +619,13 @@ translate english azazel_lvl2_3fefaf02:
     # voice "azazel_voice/lvl2/aza07.wav"
     # aza "Hell yeah, teach! You won't regret this!"
     voice "azazel_voice/lvl2/aza07.wav"
-    aza ""
+    aza "Enfer oui, prof ! Tu ne le regretteras pas !"
 
 # game/routes/azazel.rpy:186
 translate english azazel_lvl2_a3a291c0:
 
     # "She stands up and walks to the door, putting her shoes on and waiting for me to join her."
-    ""
+    "Elle se lève et marche vers la porte, enfilant ses chaussures et attendant que je la rejoigne."
 
 # game/routes/azazel.rpy:187
 translate english azazel_lvl2_7146b51b:
@@ -637,49 +637,49 @@ translate english azazel_lvl2_7146b51b:
 translate english azazel_lvl2_0a0aea3b:
 
     # aza "Come on teach, I thought you wanted to go!"
-    aza ""
+    aza "Allez prof, je pensais que tu voulais y aller !"
 
 # game/routes/azazel.rpy:192
 translate english azazel_lvl2_57d3c051:
 
     # "I get up and join her."
-    ""
+    "Je me lève et la rejoins."
 
 # game/routes/azazel.rpy:193
 translate english azazel_lvl2_cf839c2c:
 
     # "I could tell she was excited, but I'm not really sure why.."
-    ""
+    "Je pouvais voir qu'elle était excitée, mais je ne savais pas vraiment pourquoi.."
 
 # game/routes/azazel.rpy:196
 translate english azazel_lvl2_b2f2c07a:
 
     # "As we exit the building and go outside, I look over and she's already stretching."
-    ""
+    "En sortant du bâtiment et en allant dehors, je regarde et elle est déjà en train de s'étirer."
 
 # game/routes/azazel.rpy:197
 translate english azazel_lvl2_dd5b3dc9:
 
     # "Her clothing is a bit revealing, and the way she's stretching isn't exactly appropriate."
-    ""
+    "Ses vêtements sont un peu révélateurs, et sa façon de s'étirer n'est pas exactement appropriée."
 
 # game/routes/azazel.rpy:198
 translate english azazel_lvl2_5f2862b6:
 
     # "I can't help but admire the view a little, it's been awhile since I've seen a beautiful girl."
-    ""
+    "Je ne peux pas m'empêcher d'admirer la vue un peu, ça fait un moment que je n'ai pas vu une belle fille."
 
 # game/routes/azazel.rpy:199
 translate english azazel_lvl2_c50fd195:
 
     # "Maybe a run wasn't the worst idea.."
-    ""
+    "Peut-être que courir n'était pas la pire des idées.."
 
 # game/routes/azazel.rpy:200
 translate english azazel_lvl2_32242fcd:
 
     # pro "Okay Azazel, where should we run to?"
-    pro ""
+    pro "D'accord Azazel, où devrions-nous courir ?"
 
 # game/routes/azazel.rpy:201
 translate english azazel_lvl2_22b0de16:
@@ -687,19 +687,19 @@ translate english azazel_lvl2_22b0de16:
     # voice "azazel_voice/lvl2/aza09.wav"
     # aza "I guess the park near the school is good, or we could just run around here."
     voice "azazel_voice/lvl2/aza09.wav"
-    aza ""
+    aza "Je suppose que le parc près de l'école est bien, ou on pourrait juste courir ici."
 
 # game/routes/azazel.rpy:203
 translate english azazel_lvl2_bf6b48fe:
 
     # pro "Let's run around the block a couple times, we don't have a ton of time."
-    pro ""
+    pro "Courons autour du quartier quelques fois, nous n'avons pas beaucoup de temps."
 
 # game/routes/azazel.rpy:204
 translate english azazel_lvl2_2524b858:
 
     # "Azazel finishes stretching and turns to me.."
-    ""
+    "Azazel termine ses étirements et se tourne vers moi.."
 
 # game/routes/azazel.rpy:205
 translate english azazel_lvl2_8e273dab:
@@ -707,31 +707,15 @@ translate english azazel_lvl2_8e273dab:
     # voice "azazel_voice/lvl2/aza10.wav"
     # aza "Don't fall behind now, teach!"
     voice "azazel_voice/lvl2/aza10.wav"
-    aza ""
+    aza "Ne reste pas à la traîne maintenant, prof !"
 
 # game/routes/azazel.rpy:207
 translate english azazel_lvl2_564a041c:
 
     # "She's definitely not going to hold back.."
-    ""
+    "Elle ne va certainement pas se retenir.."
 
-# game/routes/azazel.rpy:210
-translate english azazel_lvl2_8a892962:
-
-    # "Before I can say anything, Azazel starts to run."
-    ""
-
-# game/routes/azazel.rpy:211
-translate english azazel_lvl2_878943b2:
-
-    # "Shit, she's fast."
-    ""
-
-# game/routes/azazel.rpy:212
-translate english azazel_lvl2_161355be:
-
-    # "I quickly catch up to her and try to keep pace, but it's not easy.."
-    ""
+# game/routes/azazel
 
 # game/routes/azazel.rpy:213
 translate english azazel_lvl2_01faa5ef:
