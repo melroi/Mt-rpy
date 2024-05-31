@@ -2621,25 +2621,25 @@ translate english azazel_lvl3_859f26de:
 translate english azazel_lvl4_58bde8e1:
 
     # "This content is still under development. Please stay tuned for future updates!"
-    ""
+    "Ce contenu est encore en développement"
 
 translate english strings:
 
     # game/routes/azazel.rpy:16
     old "Azazel's love for you has increased"
-    new ""
+    new "L'amour d'Azazel pour toi a augmenté"
 
     # game/routes/azazel.rpy:98
     old "Ask about the notes"
-    new ""
+    new "L'interroger sur ces notes"
 
     # game/routes/azazel.rpy:98
     old "Continue watching TV"
-    new ""
+    new "Continue de regarder la télé"
 
     # game/routes/azazel.rpy:428
     old "That looks cute!"
-    new ""
+    new "C'est mignon !"
 
     # game/routes/azazel.rpy:428
     old "It doesn't really suit you.."
