@@ -153,7 +153,7 @@ translate english azazel_lvl1_f52a8aab:
 translate english azazel_lvl1_150f31e4:
 
     # pro "Hey Azazel, what's that?"
-    pro ""
+    pro "Hé Azazel, c'estquoi"
 
 # game/routes/azazel.rpy:55
 translate english azazel_lvl1_280ab4c5:
@@ -165,19 +165,19 @@ translate english azazel_lvl1_280ab4c5:
 translate english azazel_lvl1_3669aefc:
 
     # aza "Were you never taught to mind your own business, human.."
-    aza ""
+    aza "On en t'as jamais appris à t'occuper  detes affaires?"
 
 # game/routes/azazel.rpy:58
 translate english azazel_lvl1_568415ae:
 
     # "I can't figure out why though, there's no reason for her to act this way."
-    ""
+    "Je n'arrive pas à comprendre pourquoi, il n'y a aucune raison pour qu'elle réagisse  de cette façon. "
 
 # game/routes/azazel.rpy:59
 translate english azazel_lvl1_72bd2926:
 
     # pro "Azazel, come on, I'm your teacher. If you have something important, you gotta share."
-    pro ""
+    pro "Azazel c'est bon je suis ton professeur si il y a quelque-chose, tu dois le dire."
 
 # game/routes/azazel.rpy:60
 translate english azazel_lvl1_9cc3a256:
@@ -185,97 +185,97 @@ translate english azazel_lvl1_9cc3a256:
     # voice "azazel_voice/lvl1/aza07.wav"
     # aza "It's just my notes journal, dude. Are you gonna let me watch TV now or what?"
     voice "azazel_voice/lvl1/aza07.wav"
-    aza ""
+    aza "C'est juste mon carnet. Je peux regarder la télé ou pas"
 
 # game/routes/azazel.rpy:62
 translate english azazel_lvl1_33d75377:
 
     # pro "Yea, yea.. go ahead.."
-    pro ""
+    pro "Ouais, ouais.. vas-y.."
 
 # game/routes/azazel.rpy:63
 translate english azazel_lvl1_cf2fb626:
 
     # "I was curious as to why she was acting this way, but it was probably just a diary or something. I decided not to press the issue further."
-    ""
+    "J'étais curieux de savoir pourquoi elle agissait de cette façon, mais c'était probablement juste un journal ou quelque chose du genre. J'ai décidé de ne pas insister davantage . "
 
 # game/routes/azazel.rpy:66
 translate english azazel_lvl1_6679db0f:
 
     # "While Azazel was flipping through channels, I noticed a book she dropped while reaching for the remote."
-    ""
+    "Pendant qu'Azazel zappait les chaînes, j aperçois un livre qu'elle a fait tomber en attrapant la télécommande."
 
 # game/routes/azazel.rpy:67
 translate english azazel_lvl1_1d8a2ad4:
 
     # "I recognized it from her backpack, it was the same book she was reading when she walked in."
-    ""
+    "Je l'ai reconnu dans à son sac à dos, c'était le même livre qu'elle lisait en entrant. "
 
 # game/routes/azazel.rpy:69
 translate english azazel_lvl1_91532db0:
 
     # "When I grabbed the book, I saw a title that caught my eye. 'Azzy's Notes'"
-    ""
+    "Quand jai pris le livremon regard s'est porté lnsur le titre 'Azzy's Notes'"
 
 # game/routes/azazel.rpy:70
 translate english azazel_lvl1_90d100a2:
 
     # "The more I flipped through the pages, the more interesting it became."
-    ""
+    "C'était plus intéressanta mesure que j'avançais dans le livre"
 
 # game/routes/azazel.rpy:71
 translate english azazel_lvl1_c70d9c2c:
 
     # "As I read, I noticed little handwritten notes on the side of the pages. Some were questions, some were theories.."
-    ""
+    "Pendant ma lecture je découvre des notes manuscrites. Des questions, des théories.."
 
 # game/routes/azazel.rpy:72
 translate english azazel_lvl1_5c1a91d6:
 
     # "And some were about me."
-    ""
+    "Certaines liées à moi."
 
 # game/routes/azazel.rpy:73
 translate english azazel_lvl1_9034f8df:
 
     # "Why does the human professor have a weird hairstyle?"
-    ""
+    "Pourquoile le professeur  humain a une coupe de cheveux bizzare?  "
 
 # game/routes/azazel.rpy:74
 translate english azazel_lvl1_e250ff53:
 
     # "Why does the human professor smell like coffee?"
-    ""
+    "Pourquoi il sent le café"
 
 # game/routes/azazel.rpy:75
 translate english azazel_lvl1_3427a788:
 
     # "Is the human professor hiding something?"
-    ""
+    "Est-ce-qu'il cache quelque-chose ? "
 
 # game/routes/azazel.rpy:76
 translate english azazel_lvl1_31b04641:
 
     # "Are the human professor's eyes green or blue?"
-    ""
+    "Ses yeux sont vert ou bleu ?"
 
 # game/routes/azazel.rpy:77
 translate english azazel_lvl1_c4b72633:
 
     # "Azazel wrote a bunch of little thoughts and observations about me, which made me wonder why she did this."
-    ""
+    "Azazel à ecrit pleins de petites pensées et observationsa à mon sujet. Je me demande pourquoi elle a fait ça"
 
 # game/routes/azazel.rpy:79
 translate english azazel_lvl1_6a768be8:
 
     # pro "Hey, Azazel?"
-    pro ""
+    pro "Hé, Azazel ? "
 
 # game/routes/azazel.rpy:80
 translate english azazel_lvl1_ad38c74d:
 
     # "I'm not sure what possessed me to ask, but I asked her a question about her notes.."
-    ""
+    ""Je ne suis pas sûr de ce qui m'a poussé à lui demander, mais je lui ai posé une question sur ses notes. "
 
 # game/routes/azazel.rpy:83
 translate english azazel_lvl1_8747a224:
@@ -283,19 +283,19 @@ translate english azazel_lvl1_8747a224:
     # voice "azazel_voice/lvl1/aza08.wav"
     # aza "Hey, what are you reading?!"
     voice "azazel_voice/lvl1/aza08.wav"
-    aza ""
+    aza "Hé, qu'est-ce que tu lis ?! "
 
 # game/routes/azazel.rpy:85
 translate english azazel_lvl1_5d60c01a:
 
     # pro "Oh, uhh, this?"
-    pro ""
+    pro "Oh, Euhh , Ça ? "
 
 # game/routes/azazel.rpy:86
 translate english azazel_lvl1_2d38daba:
 
     # "Azazel snatches the book away and puts it back in her bag."
-    ""
+    "Azazel prends le livre et le range dans son sac"
 
 # game/routes/azazel.rpy:87
 translate english azazel_lvl1_311069d3:
@@ -307,7 +307,7 @@ translate english azazel_lvl1_311069d3:
 translate english azazel_lvl1_67ae07e6:
 
     # pro "I was just looking at your notes. They're good."
-    pro ""
+    pro "Je regardait seulement tes notes . Elle sont biens"
 
 # game/routes/azazel.rpy:90
 translate english azazel_lvl1_30ab279f:
@@ -315,13 +315,13 @@ translate english azazel_lvl1_30ab279f:
     # voice "azazel_voice/lvl1/aza09.wav"
     # aza "They're just random thoughts, you don't have to lie to make me feel better, human.."
     voice "azazel_voice/lvl1/aza09.wav"
-    aza ""
+    aza "Ce ne sont que des pensées aléatoires, tu n'as pas besoin de mentir pour que je me sente mieux, humain. "
 
 # game/routes/azazel.rpy:92
 translate english azazel_lvl1_3801fee3:
 
     # pro "I'm not, really."
-    pro ""
+    pro "Je ne te mens, pas vraiment"
 
 # game/routes/azazel.rpy:93
 translate english azazel_lvl1_db7b7c96:
@@ -329,19 +329,19 @@ translate english azazel_lvl1_db7b7c96:
     # voice "azazel_voice/lvl1/aza10.wav"
     # aza ".. shut up."
     voice "azazel_voice/lvl1/aza10.wav"
-    aza ""
+    aza ".. ta gueule. "
 
 # game/routes/azazel.rpy:95
 translate english azazel_lvl1_176af905:
 
     # "She seemed like she was embarrassed, but I'm not sure why."
-    ""
+    "Elle a l'air embarrassé,  mais je ne suis oas sûr pourquoi"
 
 # game/routes/azazel.rpy:97
 translate english azazel_lvl1_b3f02f43:
 
     # "Her notes weren't anything special, they were just little things that came to mind when she was studying."
-    ""
+    "Ses notes n'avaient rien de spécial, c'étaient juste de petites choses qui lui venaient à l'esprit lorsqu'elle étudiait. "
 
 # game/routes/azazel.rpy:100
 translate english azazel_lvl1_6ea7d3cf:
