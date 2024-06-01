@@ -10,7 +10,7 @@ translate French prof_78471e24:
 translate French prof_ad616f2b:
 
     # pro "Can't say I'm getting used to it, but I'm getting better at ignoring them."
-    pro "Je ne peux pas dire que je m'y habitue, mais je deviens de mieux en mieux les ignorer."
+    pro "Je ne peux pas dire que je m'y habitue, mais j'arrive à les ignorer de mieux en mieux ."
 
 # game/schoolmap.rpy:12
 translate French prof_394ea742:
@@ -18,13 +18,13 @@ translate French prof_394ea742:
     # voice "audio/azazel_voice/school_lvl1/aza01.wav"
     # aza "Good morning teach! What's on the agenda today?"
     voice "audio/azazel_voice/school_lvl1/aza01.wav"
-    aza "Bonjour, enseignez-vous ! Quel est le programme aujourd'hui ?"
+    aza "Bonjour, Prof ! Quel est le programme aujourd'hui ?"
 
 # game/schoolmap.rpy:14
 translate French prof_b4602363:
 
     # pro "Hey Azazel, we're going to be covering the great Netherworld war today."
-    pro "Salut Azazel, nous allons couvrir la grande guerre des Netherworld aujourd'hui."
+    pro "Salut Azazel, nous allons voir la grande guerre des Netherworld aujourd'hui."
 
 # game/schoolmap.rpy:15
 translate French prof_86205e70:
@@ -38,7 +38,7 @@ translate French prof_33c6d3a4:
     # voice "audio/azazel_voice/school_lvl1/aza02.wav"
     # aza "What's the point of your tutoring if I have to still study on my own.."
     voice "audio/azazel_voice/school_lvl1/aza02.wav"
-    aza "A quoi sert votre tutorat si je dois quand même étudier seul.."
+    aza "A quoi sert vos cours si je dois quand même étudier seul.."
 
 # game/schoolmap.rpy:18
 translate French prof_967a095e:
@@ -52,7 +52,7 @@ translate French prof_284b0fb8:
     # voice "audio/azazel_voice/school_lvl1/aza03.wav"
     # aza "But I'm not gonna to even use this knowledge in the future!"
     voice "audio/azazel_voice/school_lvl1/aza03.wav"
-    aza "Mais je ne vais même pas utiliser ces connaissances à l’avenir !"
+    aza "Mais je ne vais même pas utiliser ça plus tard !"
 
 # game/schoolmap.rpy:21
 translate French prof_1ca2e250:
@@ -60,13 +60,13 @@ translate French prof_1ca2e250:
     # voice "audio/azazel_voice/school_lvl1/aza04.wav"
     # aza "I'm going to be a demon lord, not a historian."
     voice "audio/azazel_voice/school_lvl1/aza04.wav"
-    aza "Je vais être un seigneur démon, pas un historien."
+    aza "Je vais être une seigneure démone, pas une historiennne."
 
 # game/schoolmap.rpy:23
 translate French prof_486f14b5:
 
     # pro "A demon lord..?"
-    pro "Un seigneur démon…?"
+    pro "Une seigneure démone…?"
 
 # game/schoolmap.rpy:24
 translate French prof_cbb5c3cf:
@@ -74,7 +74,7 @@ translate French prof_cbb5c3cf:
     # voice "audio/azazel_voice/school_lvl1/aza05.wav"
     # aza "Yea, a demon lord! I come from a family of demon lords, so it'd make sense for me to be one too."
     voice "audio/azazel_voice/school_lvl1/aza05.wav"
-    aza "Ouais, un seigneur démon ! Je viens d'une famille de seigneurs démons, il serait donc logique que j'en fasse partie aussi."
+    aza "Ouais, une seigneure démone ! Je viens d'une famille de seigneurs démons, il serait donc logique que j'en soit une aussi."
 
 # game/schoolmap.rpy:26
 translate French prof_18031866:
@@ -92,13 +92,13 @@ translate French prof_1e70999b:
 translate French prof_f9790975:
 
     # aza "How can you teach history and not know.."
-    aza "How can you teach history and not know.."
+    aza "Comment tu peut faire des cours d'histoire et ne pas savoir.."
 
 # game/schoolmap.rpy:30
 translate French prof_62c90ef4:
 
     # pro "Hey, I'm a history teacher, but I'm not an expert!"
-    pro "Hé, je suis professeur d'histoire, mais je ne suis pas un expert !"
+    pro "Hé, je suis professeur d'histoire, mais je ne suis pas expert !"
 
 # game/schoolmap.rpy:31
 translate French prof_fb61f379:
@@ -118,7 +118,7 @@ translate French prof_f006c524:
 translate French prof_9915cdc0:
 
     # aza "In the case of my dad, he rules over the 7th circle of hell."
-    aza "In the case of my dad, he rules over the 7th circle of hell."
+    aza "Par exemple, mon père règne sur le 7eme cercle de l'enfer"
 
 # game/schoolmap.rpy:36
 translate French prof_f6d7e931:
@@ -148,7 +148,7 @@ translate French prof_0a837064:
 translate French prof_53709cc9:
 
     # pro "So.. what would you rule over?"
-    pro "Alors... sur quoi régneriez-vous ?"
+    pro "Alors... sur quoi tu régneras ?"
 
 # game/schoolmap.rpy:43
 translate French prof_567ef6fc:
@@ -156,7 +156,7 @@ translate French prof_567ef6fc:
     # voice "audio/azazel_voice/school_lvl1/aza12.wav"
     # aza "Maybe... the domain of eating-stupid-humans!"
     voice "audio/azazel_voice/school_lvl1/aza12.wav"
-    aza "Peut-être... le domaine des humains stupides qui mangent !"
+    aza "Peut-être... le domaine des mangeur d'humains stupides !"
 
 # game/schoolmap.rpy:45
 translate French prof_0c082679:
@@ -222,7 +222,7 @@ translate French prof_20274091:
 translate French prof_35d50705:
 
     # pro "Well, that's the bell. I'll see you third period, Azazel."
-    pro "Eh bien, c'est la cloche. Je te verrai en troisième période, Azazel."
+    pro "Eh bien, c'est la sonnerie. Je te verrai à la troisième heure , Azazel."
 
 # game/schoolmap.rpy:68
 translate French prof_12d72c4c:
@@ -230,7 +230,7 @@ translate French prof_12d72c4c:
     # voice "audio/azazel_voice/school_lvl1/aza18.wav"
     # aza "Yea, see you later teach!"
     voice "audio/azazel_voice/school_lvl1/aza18.wav"
-    aza "Ouais, à plus tard, enseigner !"
+    aza "Ouais, à plus tard, prof !"
 
 # game/schoolmap.rpy:71
 translate French prof_2c0626b8:
@@ -248,13 +248,13 @@ translate French prof_4ecb1fd7:
 translate French prof_b95a46df:
 
     # "A few hours later, third period rolls around, which is my history class with Azazel, Phanta, and Josa."
-    "Quelques heures plus tard, arrive la troisième période, qui est mon cours d'histoire avec Azazel, Phanta et Josa."
+    "Quelques heures plus tard, arrive à la troisième heure, qui est mon cours d'histoire avec Azazel, Phanta et Josa."
 
 # game/schoolmap.rpy:80
 translate French prof_9fc0a94a:
 
     # pro "Alright, class, today we're going to do something a bit different."
-    pro "Très bien, la classe, aujourd'hui, nous allons faire quelque chose d'un peu différent."
+    pro "Très bien, aujourd'hui, nous allons faire quelque chose d'un peu différent."
 
 # game/schoolmap.rpy:81
 translate French prof_f2473de1:
@@ -300,7 +300,7 @@ translate French prof_5f074da3:
     # voice "audio/azazel_voice/school_lvl1/aza19.wav"
     # aza "You're kidding, right? Please tell me you're kidding."
     voice "audio/azazel_voice/school_lvl1/aza19.wav"
-    aza "Tu plaisante, n'Est-ce pas? S'il vous plaît, dites-moi que vous plaisantez."
+    aza "Tu plaisante, n'st-ce pas? S'il vous plaît, dites-moi que vous plaisantez."
 
 # game/schoolmap.rpy:93
 translate French prof_bc771c64:
@@ -372,7 +372,7 @@ translate French prof_a91b9290:
 translate French prof_0c7e57f9:
 
     # "Josa wraps the black bedsheet around herself, the collar poking out at odd angles, making her look less like a valiant vampire general and more like a gothic superhero."
-    "Josa enroule le drap noir autour d'elle, le col dépassant à des angles étranges, la faisant ressembler moins à un vaillant général vampire qu'à un super-héros gothique."
+    "Josa enroule le drap noir autour d'elle, le col dépassant à des angles étranges, la faisant ressembler plus àun super-héros gothique qu'à un vaillant général vampire ."
 
 # game/schoolmap.rpy:111
 translate French prof_eb2e4dbf:
@@ -384,7 +384,7 @@ translate French prof_eb2e4dbf:
 translate French prof_0eccfdea:
 
     # pro "Okay, everyone! Places! Let's bring the Great Netherworld War to life... sort of."
-    pro "D'accord, tout le monde ! Lieux! Donnons vie à la Grande Guerre des Enfers... en quelque sorte."
+    pro "D'accord, tout le monde ! Donnons vie à la Grande Guerre des Enfers... en quelque sorte."
 
 # game/schoolmap.rpy:113
 translate French prof_4e35877d:
