@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2024-05-30 14:53
+# TODO: Translation updated at 2024-05-30 14:53
 
 translate French strings:
 
@@ -8,15 +8,15 @@ translate French strings:
 
     # renpy/common/00accessibility.rpy:29
     old "Clipboard voicing enabled. "
-    new "Voix du presse-papiers activée."
+    new "Narrateur du presse-papiers activée."
 
     # renpy/common/00accessibility.rpy:30
     old "Self-voicing enabled. "
-    new "Auto-voix activé."
+    new "Narrateur activé."
 
     # renpy/common/00accessibility.rpy:32
     old "bar"
-    new "bar"
+    new "barre"
 
     # renpy/common/00accessibility.rpy:33
     old "selected"
@@ -68,7 +68,7 @@ translate French strings:
 
     # renpy/common/00accessibility.rpy:151
     old "Opendyslexic"
-    new "Ouvertdyslexique"
+    new "Opendyslexic"
 
     # renpy/common/00accessibility.rpy:157
     old "Text Size Scaling"
@@ -88,7 +88,7 @@ translate French strings:
 
     # renpy/common/00accessibility.rpy:194
     old "Self-Voicing"
-    new "Auto-voix"
+    new "Narrateur"
 
     # renpy/common/00accessibility.rpy:198
     old "Off"
@@ -96,7 +96,7 @@ translate French strings:
 
     # renpy/common/00accessibility.rpy:202
     old "Text-to-speech"
-    new "Texte pour parler"
+    new "synthèse vocale"
 
     # renpy/common/00accessibility.rpy:206
     old "Clipboard"
@@ -144,39 +144,39 @@ translate French strings:
 
     # renpy/common/00action_file.rpy:37
     old "{#weekday_short}Mon"
-    new "{#weekday_short}Lundi"
+    new "{#weekday_short}Lun"
 
     # renpy/common/00action_file.rpy:37
     old "{#weekday_short}Tue"
-    new "{#weekday_short}mardi"
+    new "{#weekday_short}mar"
 
     # renpy/common/00action_file.rpy:37
     old "{#weekday_short}Wed"
-    new "{#weekday_short}mercredi"
+    new "{#weekday_short}mer"
 
     # renpy/common/00action_file.rpy:37
     old "{#weekday_short}Thu"
-    new "{#weekday_short}Jeudi"
+    new "{#weekday_short}Jeu"
 
     # renpy/common/00action_file.rpy:37
     old "{#weekday_short}Fri"
-    new "{#weekday_short}Vendredi"
+    new "{#weekday_short}Ven"
 
     # renpy/common/00action_file.rpy:37
     old "{#weekday_short}Sat"
-    new "{#weekday_short}Samedi"
+    new "{#weekday_short}Sam"
 
     # renpy/common/00action_file.rpy:37
     old "{#weekday_short}Sun"
-    new "{#weekday_short}Soleil"
+    new "{#weekday_short}Dim"
 
     # renpy/common/00action_file.rpy:47
     old "{#month}January"
-    new "{#month}janvier"
+    new "{#month}Janvier"
 
     # renpy/common/00action_file.rpy:47
     old "{#month}February"
-    new "{#month}février"
+    new "{#month}Février"
 
     # renpy/common/00action_file.rpy:47
     old "{#month}March"
@@ -184,7 +184,7 @@ translate French strings:
 
     # renpy/common/00action_file.rpy:47
     old "{#month}April"
-    new "{#month}avril"
+    new "{#month}Avril"
 
     # renpy/common/00action_file.rpy:47
     old "{#month}May"
@@ -204,15 +204,15 @@ translate French strings:
 
     # renpy/common/00action_file.rpy:47
     old "{#month}September"
-    new "{#month}septembre"
+    new "{#month}Septembre"
 
     # renpy/common/00action_file.rpy:47
     old "{#month}October"
-    new "{#month}octobre"
+    new "{#month}Octobre"
 
     # renpy/common/00action_file.rpy:47
     old "{#month}November"
-    new "{#month}novembre"
+    new "{#month}Novembre"
 
     # renpy/common/00action_file.rpy:47
     old "{#month}December"
@@ -220,19 +220,19 @@ translate French strings:
 
     # renpy/common/00action_file.rpy:63
     old "{#month_short}Jan"
-    new "{#month_short}janvier"
+    new "{#month_short}Jan"
 
     # renpy/common/00action_file.rpy:63
     old "{#month_short}Feb"
-    new "{#month_short}février"
+    new "{#month_short}Fév"
 
     # renpy/common/00action_file.rpy:63
     old "{#month_short}Mar"
-    new "{#month_short}mars"
+    new "{#month_short}Mar"
 
     # renpy/common/00action_file.rpy:63
     old "{#month_short}Apr"
-    new "{#month_short}avril"
+    new "{#month_short}Avr"
 
     # renpy/common/00action_file.rpy:63
     old "{#month_short}May"
@@ -240,31 +240,31 @@ translate French strings:
 
     # renpy/common/00action_file.rpy:63
     old "{#month_short}Jun"
-    new "{#month_short}juin"
+    new "{#month_short}Juin"
 
     # renpy/common/00action_file.rpy:63
     old "{#month_short}Jul"
-    new "{#month_short}juillet"
+    new "{#month_short}Jul"
 
     # renpy/common/00action_file.rpy:63
     old "{#month_short}Aug"
-    new "{#month_short}août"
+    new "{#month_short}Aoû"
 
     # renpy/common/00action_file.rpy:63
     old "{#month_short}Sep"
-    new "{#month_short}septembre"
+    new "{#month_short}Sept"
 
     # renpy/common/00action_file.rpy:63
     old "{#month_short}Oct"
-    new "{#month_short}octobre"
+    new "{#month_short}Oct"
 
     # renpy/common/00action_file.rpy:63
     old "{#month_short}Nov"
-    new "{#month_short}novembre"
+    new "{#month_short}Nov"
 
     # renpy/common/00action_file.rpy:63
     old "{#month_short}Dec"
-    new "{#month_short}décembre"
+    new "{#month_short}Déc"
 
     # renpy/common/00action_file.rpy:258
     old "%b %d, %H:%M"
@@ -272,11 +272,11 @@ translate French strings:
 
     # renpy/common/00action_file.rpy:395
     old "Save slot %s: [text]"
-    new "Enregistrer l'emplacement %s : [text]"
+    new "Enregistrer l'emplacement %s : [text]"
 
     # renpy/common/00action_file.rpy:480
     old "Load slot %s: [text]"
-    new "Charger l'emplacement %s : [text]"
+    new "Charger l'emplacement %s : [text]"
 
     # renpy/common/00action_file.rpy:533
     old "Delete slot [text]"
@@ -320,7 +320,7 @@ translate French strings:
 
     # renpy/common/00action_other.rpy:746
     old "Open [text] directory."
-    new "Ouvrez le répertoire [text]."
+    new "Ouvrez le dossier [text]."
 
     # renpy/common/00director.rpy:712
     old "The interactive director is not enabled here."
@@ -340,19 +340,19 @@ translate French strings:
 
     # renpy/common/00director.rpy:1591
     old "(statement)"
-    new "(déclaration)"
+    new "(statement)"
 
     # renpy/common/00director.rpy:1592
     old "(tag)"
-    new "(étiqueter)"
+    new "(tag)"
 
     # renpy/common/00director.rpy:1593
     old "(attributes)"
-    new "(les attributs)"
+    new "(attributes)"
 
     # renpy/common/00director.rpy:1594
     old "(transform)"
-    new "(transformer)"
+    new "(transform)"
 
     # renpy/common/00director.rpy:1619
     old "(transition)"
@@ -360,15 +360,15 @@ translate French strings:
 
     # renpy/common/00director.rpy:1631
     old "(channel)"
-    new "(canal)"
+    new "(channel)"
 
     # renpy/common/00director.rpy:1632
     old "(filename)"
-    new "(nom de fichier)"
+    new "(filename)"
 
     # renpy/common/00director.rpy:1661
     old "Change"
-    new "Changement"
+    new "Changer"
 
     # renpy/common/00director.rpy:1663
     old "Add"
@@ -400,7 +400,7 @@ translate French strings:
 
     # renpy/common/00director.rpy:1764
     old "Transforms:"
-    new "Se transforme:"
+    new "Transforme:"
 
     # renpy/common/00director.rpy:1775
     old "Click to set transform, right click to add to transform list."
@@ -440,7 +440,7 @@ translate French strings:
 
     # renpy/common/00director.rpy:1857
     old "Audio Filename:"
-    new "Nom du fichier audio :"
+    new "Nom du fichier audio :"
 
     # renpy/common/00gui.rpy:448
     old "Are you sure?"
@@ -448,15 +448,15 @@ translate French strings:
 
     # renpy/common/00gui.rpy:449
     old "Are you sure you want to delete this save?"
-    new "Êtes-vous sûr de vouloir supprimer cette sauvegarde ?"
+    new "Êtes-vous sûr de vouloir supprimer cette sauvegarde ?"
 
     # renpy/common/00gui.rpy:450
     old "Are you sure you want to overwrite your save?"
-    new "Êtes-vous sûr de vouloir écraser votre sauvegarde ?"
+    new "Êtes-vous sûr de vouloir écraser votre sauvegarde ?"
 
     # renpy/common/00gui.rpy:451
     old "Loading will lose unsaved progress.\nAre you sure you want to do this?"
-    new "Le chargement perdra la progression non enregistrée.\nÊtes-vous sûr de vouloir faire cela ?"
+    new "Le chargement perdra la progression non enregistrée.\nÊtes-vous sûr de vouloir faire cela ?"
 
     # renpy/common/00gui.rpy:452
     old "Are you sure you want to quit?"
@@ -464,35 +464,35 @@ translate French strings:
 
     # renpy/common/00gui.rpy:453
     old "Are you sure you want to return to the main menu?\nThis will lose unsaved progress."
-    new "Êtes-vous sûr de vouloir revenir au menu principal ?\nCela entraînera la perte de la progression non enregistrée."
+    new "Êtes-vous sûr de vouloir revenir au menu principal ?\nCela entraînera la perte de la progression non enregistrée."
 
     # renpy/common/00gui.rpy:454
     old "Are you sure you want to continue where you left off?"
-    new "Êtes-vous sûr de vouloir continuer là où vous vous êtes arrêté ?"
+    new "Êtes-vous sûr de vouloir continuer là où vous vous êtes arrêté ?"
 
     # renpy/common/00gui.rpy:455
     old "Are you sure you want to end the replay?"
-    new "Êtes-vous sûr de vouloir mettre fin à la rediffusion ?"
+    new "Êtes-vous sûr de vouloir mettre fin à la rediffusion ?"
 
     # renpy/common/00gui.rpy:456
     old "Are you sure you want to begin skipping?"
-    new "Êtes-vous sûr de vouloir commencer à sauter ?"
+    new "Êtes-vous sûr de vouloir commencer à sauter ?"
 
     # renpy/common/00gui.rpy:457
     old "Are you sure you want to skip to the next choice?"
-    new "Êtes-vous sûr de vouloir passer au choix suivant ?"
+    new "Êtes-vous sûr de vouloir passer au choix suivant ?"
 
     # renpy/common/00gui.rpy:458
     old "Are you sure you want to skip unseen dialogue to the next choice?"
-    new "Êtes-vous sûr de vouloir passer les dialogues invisibles au choix suivant ?"
+    new "Êtes-vous sûr de vouloir passer les dialogues invisibles au choix suivant ?"
 
     # renpy/common/00gui.rpy:459
     old "This save was created on a different device. Maliciously constructed save files can harm your computer. Do you trust this save's creator and everyone who could have changed the file?"
-    new "Cette sauvegarde a été créée sur un autre appareil. Les fichiers de sauvegarde construits de manière malveillante peuvent endommager votre ordinateur. Faites-vous confiance au créateur de cette sauvegarde et à tous ceux qui auraient pu modifier le fichier ?"
+    new "Cette sauvegarde a été créée sur un autre appareil. Les fichiers de sauvegarde construits de manière malveillante peuvent endommager votre ordinateur. Faites-vous confiance au créateur de cette sauvegarde et à tous ceux qui auraient pu modifier le fichier ?"
 
     # renpy/common/00gui.rpy:460
     old "Do you trust the device the save was created on? You should only choose yes if you are the device's sole user."
-    new "Faites-vous confiance à l'appareil sur lequel la sauvegarde a été créée ? Vous ne devez choisir oui que si vous êtes le seul utilisateur de l'appareil."
+    new "Faites-vous confiance à l'appareil sur lequel la sauvegarde a été créée ? Vous ne devez choisir oui que si vous êtes le seul utilisateur de l'appareil."
 
     # renpy/common/00keymap.rpy:323
     old "Failed to save screenshot as %s."
@@ -744,15 +744,15 @@ translate French strings:
 
     # renpy/common/00preferences.rpy:698
     old "Clipboard voicing enabled. Press 'shift+C' to disable."
-    new "Voix du presse-papiers activée. Appuyez sur « shift+C » pour désactiver."
+    new "Voix du presse-papiers activée. Appuyez sur « shift+C » pour désactiver."
 
     # renpy/common/00preferences.rpy:700
     old "Self-voicing would say \"[renpy.display.tts.last]\". Press 'alt+shift+V' to disable."
-    new "L'auto-voix dirait \"[renpy.display.tts.last]\". Appuyez sur « alt+shift+V » pour désactiver."
+    new "L'auto-voix dirait \"[renpy.display.tts.last]\". Appuyez sur « alt+shift+V » pour désactiver."
 
     # renpy/common/00preferences.rpy:702
     old "Self-voicing enabled. Press 'v' to disable."
-    new "Auto-voix activé. Appuyez sur « v » pour désactiver."
+    new "Auto-voix activé. Appuyez sur « v » pour désactiver."
 
     # renpy/common/00speechbubble.rpy:392
     old "Speech Bubble Editor"
@@ -808,7 +808,7 @@ translate French strings:
 
     # renpy/common/00sync.rpy:538
     old "This will upload your saves to the {a=https://sync.renpy.org}Ren'Py Sync Server{/a}.\nDo you want to continue?"
-    new "Vos sauvegardes seront alors importées sur le {a=https://sync.renpy.org}serveur de synchronisation Ren'Py{/a}.\nVoulez-vous continuer ?"
+    new "Vos sauvegardes seront alors importées sur le {a=https://sync.renpy.org}serveur de synchronisation Ren'Py{/a}.\nVoulez-vous continuer ?"
 
     # renpy/common/00sync.rpy:569
     old "Enter Sync ID"
@@ -824,7 +824,7 @@ translate French strings:
 
     # renpy/common/00sync.rpy:612
     old "The Sync ID is:"
-    new "L'ID de synchronisation est :"
+    new "L'ID de synchronisation est :"
 
     # renpy/common/00sync.rpy:618
     old "You can use this ID to download your save on another device.\nThis sync will expire in an hour.\nRen'Py Sync is supported by {a=https://www.renpy.org/sponsors.html}Ren'Py's Sponsors{/a}."
@@ -848,7 +848,7 @@ translate French strings:
 
     # renpy/common/00updater.rpy:552
     old "Could not download file list: "
-    new "Impossible de télécharger la liste des fichiers :"
+    new "Impossible de télécharger la liste des fichiers :"
 
     # renpy/common/00updater.rpy:555
     old "File list digest does not match."
@@ -880,7 +880,7 @@ translate French strings:
 
     # renpy/common/00updater.rpy:1385
     old "The update file does not have the correct digest - it may have been corrupted."
-    new "Le fichier de mise à jour ne contient pas le résumé correct : il a peut-être été corrompu."
+    new "Le fichier de mise à jour ne contient pas le résumé correct : il a peut-être été corrompu."
 
     # renpy/common/00updater.rpy:1535
     old "While unpacking {}, unknown type {}."
@@ -952,7 +952,7 @@ translate French strings:
 
     # renpy/common/00updater.rpy:2078
     old "An error occured when trying to download game data:"
-    new "Une erreur s'est produite lors de la tentative de téléchargement des données du jeu :"
+    new "Une erreur s'est produite lors de la tentative de téléchargement des données du jeu :"
 
     # renpy/common/00updater.rpy:2083
     old "This game cannot be run until the game data has been downloaded."
@@ -1060,7 +1060,7 @@ translate French strings:
 
     # renpy/common/00gltest.rpy:251
     old "This computer has a problem displaying graphics: [problem]."
-    new "Cet ordinateur a un problème pour afficher les graphiques : [problem]."
+    new "Cet ordinateur a un problème pour afficher les graphiques : [problem]."
 
     # renpy/common/00gltest.rpy:255
     old "Its graphics drivers may be out of date or not operating correctly. This can lead to slow or incorrect graphics display."
